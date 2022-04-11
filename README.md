@@ -9,7 +9,7 @@ Clone this repo and run this command "npm install"
 Preview in local server : Run command "npm run start:dev"
 Create production build : Run command "npm run build"
 
-#####  STEP-2 (open html from dist dolder)
+#####  STEP-3 (open html from dist Folder)
 After that you will have dist folder in same dir. /dist filder , open index.html in your browser.
 /dist folder have everything compressd version, you can check code in /src folder.
 
